@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D5C114C1-C18E-453A-B8C9-8B9E06A58336}|Prod SelfHosting">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinhaAppVS1/Startup.cs">
+    <Files>
+      <File FileName="MinhaAppVS1/Startup.cs" Line="46" Column="13" />
+      <File FileName="MinhaAppVS1/Program.cs" Line="16" Column="1" />
+      <File FileName="MinhaAppVS1/EmptyCSharpFile.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinhaAppVS1" expanded="True">
+            <Node name="MinhaAppVS1" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MinhaAppVS1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
